@@ -186,3 +186,15 @@ You can remove testing artifacts, `exercise` directories, with the git clean com
 ```sh
 git clean -ffdX
 ```
+
+## Completed Exercises
+
+The following exercises from [Katas that solve standard problems](Overview.md#katas-that-solve-standard-problems) have been completed:
+<img width="761" height="697" alt="image" src="https://github.com/user-attachments/assets/b6fcf92b-371d-427a-a057-6fc09e21a55f" />
+
+
+## Most Interesting Exercises
+
+1. reverted-merge
+2. save-my-commit
+3. commit-on-wrong-branch
