@@ -192,6 +192,9 @@ git clean -ffdX
 The following exercises from [Katas that solve standard problems](Overview.md#katas-that-solve-standard-problems) have been completed:
 <img width="761" height="697" alt="image" src="https://github.com/user-attachments/assets/b6fcf92b-371d-427a-a057-6fc09e21a55f" />
 
+The following exercises from [Katas On Advanced features](Overview.md#katas-on-advanced-features) have been completed:
+<img width="1451" height="926" alt="image" src="https://github.com/user-attachments/assets/cd753cf8-d6a4-4d1f-9a90-22739c5c2980" />
+
 
 ## Most Interesting Exercises
 
